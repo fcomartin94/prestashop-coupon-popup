@@ -2,7 +2,7 @@
 
 A PrestaShop module that shows a popup to guest visitors, inviting them to create an account and use a discount coupon. Coupon code, discount label, delay and re-appearance period are configurable from the back office.
 
-It started as a custom module built during my professional placement at Duyal, for a client's store, and this is the generic, configurable version.
+This is the generic, configurable version of `expopopup`, a custom module I built during my professional placement at Duyal On Line for a client's online store. The original runs in production on that store; this version removes the client-specific details and makes the coupon code, discount label, delay and re-appearance period configurable from the back office.
 
 ## Features
 
@@ -15,7 +15,7 @@ It started as a custom module built during my professional placement at Duyal, f
 
 ## Requirements
 
-- PrestaShop 1.7 or later. The original module was developed and tested locally on PrestaShop 1.7.8.11 (Docker).
+- PrestaShop 1.7 or later. The original module was developed and tested locally on PrestaShop 1.7.8.11 (Docker) before going to production.
 
 ## Installation
 
