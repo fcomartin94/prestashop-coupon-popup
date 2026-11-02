@@ -1,6 +1,6 @@
 <?php
 /**
- * Popup cupón EXPO - Expochimeneas
+ * Coupon Popup
  *
  * Generic, configurable version: shows a coupon popup to guest visitors,
  * inviting them to create an account. Coupon code, discount label, delay and
